@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayesh Potlabattini</h1>
-<h3 align="center">A Full Stack Web Developer and UI/UX Designer</h3>
+<h3 align="center">A Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshvp24&label=Profile%20views&color=265cfd&style=flat" alt="jayeshvp24" /> </p>
 
