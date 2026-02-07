@@ -4,6 +4,8 @@ Full stack developer & design engineer.
 <br>
 Closing the gap between human senses and digital interfaces.
 
+[jayesh.me](https://jayesh.me)
+
 ---
 
 `01` — **about**
