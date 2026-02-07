@@ -30,7 +30,7 @@ Built secure, in-app Solana transaction signing flows using Google auth and cust
 
 `03` — **experiments**
 
-**Font Alt** — Afavourite fonts. Reverse-engineering Google Fonts optimization to build a font alternative discovery tool.
+**Font Alt** — Alternatives to your favourite fonts. Reverse-engineering Google Fonts optimization to build a font alternative discovery tool.
 
 **Retro Nexus** — Shape stories with AI on chain. AI-driven storytelling through interactive chat and on-chain generative imagery.
 
